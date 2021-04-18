@@ -63,7 +63,9 @@ SRC_sql = "SELECT * 시작 쿼리"
 TGT_sql = "SELECT * 시작 쿼리"
 
 ## 3. 1,2번 객체들을 함수에 넣고 건수 검증 수행
-result, total_result = total_merge_check(SRC_db_name,
+result, total_result = 
+
+total_merge_check(SRC_db_name,
                                          SRC_SCHEMA,
                                          SRC_table_name,
                                          SRC_sql,
