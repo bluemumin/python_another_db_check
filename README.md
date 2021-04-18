@@ -9,7 +9,7 @@ DBMS간 건수, 데이터 정합성 검증용 함수 python 파일
 
 정합성 검증 방식 요약
 
-![db_check_설명용](https://user-images.githubusercontent.com/53479967/115150900-5ae5f500-a0a5-11eb-9633-7e9c24cfd6a6.jpg)
+![db_check_설명용](https://user-images.githubusercontent.com/53479967/115150936-8832a300-a0a5-11eb-8385-7c738c5f4c65.PNG)
 
 --------------------------------------------------------------
 
